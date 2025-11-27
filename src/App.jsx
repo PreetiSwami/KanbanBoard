@@ -11,7 +11,7 @@ import KanbanBoard from "./kanbanDashboard";
 
 function App() {
   return(<>
-  <h1>KanBan Board</h1>
+  <h3>KanBan Board</h3>
   <KanbanBoard/>
 
     </>)
